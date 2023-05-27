@@ -19,9 +19,9 @@ Apply data visualization techniques to identify the patterns of the data.
 
 
 ## CODE
-NAME: sivakumar A
+NAME: PRASANNA R
 
-REGISTER NUMBER:212220043004
+REGISTER NUMBER:212221220039
 ```
 # DATA
 import pandas as pd
